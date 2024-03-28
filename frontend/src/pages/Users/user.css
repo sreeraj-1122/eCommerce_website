@@ -1,0 +1,22 @@
+.user-card {
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+    margin-top: 10px;
+    height: 100px;
+    gap: 20px;
+    padding: 0 17px;
+}
+
+.user-card .avathar-section {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    overflow: hidden; 
+}
+
+.avathar-section img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

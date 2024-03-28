@@ -1,0 +1,18 @@
+.main-header .logo{
+    color: rgb(42, 41, 41);
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+.header-nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding: 0 10px;
+    font-weight: 600;
+    transition: .7s all;
+}
+.header-nav a:hover{
+    text-shadow: 1px 1px rgb(126, 125, 125);
+}
